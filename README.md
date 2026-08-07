@@ -6,6 +6,28 @@ An AI-powered Personal Finance Dashboard built with React, Vite, Firebase, Fires
 
 🔗 Live Demo: https://expense-tracker-react-pupf-od2du282f-tejaswini-rath.vercel.app
 
+## 📸 Screenshots
+
+### 🏠 Dashboard
+
+![Dashboard](public/screenshots/dashboard.png)
+
+### 💳 Dashboard Cards
+
+![Cards](public/screenshots/cards.png)
+
+### 📈 Analytics
+
+![Charts](public/screenshots/charts.png)
+
+### 🤖 AI Financial Advisor
+
+![AI](public/screenshots/ai.png)
+
+### ✨ Features
+
+![Features](public/screenshots/features.png)
+
 ## ✨ Features
 
 - 🔐 Firebase Authentication

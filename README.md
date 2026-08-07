@@ -1,16 +1,49 @@
-# React + Vite
+# 🤖 AI Personal Finance Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered Personal Finance Dashboard built with React, Vite, Firebase, Firestore, and Google Gemini AI.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+👉 Coming Soon
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🔐 Firebase Authentication
+- ☁️ Cloud Firestore Database
+- 💰 Expense Tracking
+- 📊 Interactive Dashboard
+- 📈 Charts & Analytics
+- 🎯 Budget Management
+- 💵 Income Tracking
+- 🤖 AI Financial Advisor
+- 🔍 Search, Filter & Sort
+- 📄 PDF Export
+- 📊 CSV Export
+- 🌙 Dark Mode
+- 📱 Responsive Design
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- Firebase Authentication
+- Cloud Firestore
+- Google Gemini AI
+- Chart.js
+- Vercel
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/TejaswiniRath/expense-tracker-react.git
+cd expense-tracker-react
+npm install
+npm run dev
+```
+
+## 👩‍💻 Author
+
+**Tejaswini Rath**
+
+GitHub: https://github.com/TejaswiniRath 
